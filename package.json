@@ -19,5 +19,8 @@
   "homepage": "https://github.com/vitorlfaria/exercicio-ebac-11#readme",
   "devDependencies": {
     "cypress": "^9.0.0"
+  },
+  "dependencies": {
+    "faker": "^5.5.3"
   }
 }
